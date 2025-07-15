@@ -1,0 +1,13 @@
+.main-title{
+background-color: #808080;
+font-size :  28px
+color: white;
+}
+
+.menu{
+display: flex;
+flex-direction: column;
+background-color: #808080;
+color: black;
+padding: 4px;
+}
